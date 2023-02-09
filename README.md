@@ -1,5 +1,7 @@
 # 4D-MGP-SRRNet
-Rain Removal from Light Field Images with 4D Convolution and Multi-sclae Self-guided Gaussian Process
+"Rain Removal from Light Field Images with 4D Convolution and Multi-sclae Self-guided Gaussian Process" 
+Tao Yan, Yiming Mao, Jianming Wang, Wenxi Liu, Xiaohua Qian, Rynson W. H. Lau, IEEE TIP 2023.
+
 
 
 The derained results of real-world LFIs obtained by our network are shown in https://drive.google.com/file/d/1XzTf3WNFng8efb5ImrXOeuB_ZXDyA2BT/view?usp=sharing
